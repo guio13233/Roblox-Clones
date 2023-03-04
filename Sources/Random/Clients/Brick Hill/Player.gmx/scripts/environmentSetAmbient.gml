@@ -1,2 +1,0 @@
-// environmentSetAmbient(ambient)
-//Ambient = 

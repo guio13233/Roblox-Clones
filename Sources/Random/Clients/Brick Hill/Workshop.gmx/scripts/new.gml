@@ -1,2 +1,0 @@
-// new()
-control_reset();
